@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -28,7 +28,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-=======
+
 # Compiled class file
 *.class
 
@@ -53,4 +53,3 @@ bin/
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
->>>>>>> dfbd92720b397e2c3d5805fcccb5c1a139a1c2f5
