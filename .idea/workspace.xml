@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d2ee736-3a86-467b-8606-2281337ab202" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tina Design Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid/Pigeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid/Soundable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid/enums/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid/strategies/FlyingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid/strategies/HighFlyingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid/strategies/LowFlyingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid/strategies/LowPitchSoundingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solid/strategies/SoundingStrategy.java" afterDir="false" />
+    <list default="true" id="7d2ee736-3a86-467b-8606-2281337ab202" name="Changes" comment="SOLID Introduction">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +23,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1df481ba-3187-4e53-8715-cddfe1026d52" />
+        <option name="url" value="git@github.com:massandharsh/LLD_2023" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2SIUo5YsbA4lxfl5Qkw7aBE18jc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -86,6 +81,30 @@
       <option name="presentableId" value="Default" />
       <updated>1688833763648</updated>
     </task>
+    <task id="LOCAL-00001" summary="SOLID Introduction">
+      <option name="closed" value="true" />
+      <created>1688836254457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688836254457</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SOLID Introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="SOLID Introduction" />
   </component>
 </project>
